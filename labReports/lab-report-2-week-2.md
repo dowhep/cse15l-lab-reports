@@ -1,3 +1,7 @@
+[Back to main](https://dowhep.github.io/cse15l-lab-reports/)
+
+---
+
 # Lab Report 2 - 1/12/2022
 This is the lab that created my **first** personal website git repo!
 ## Creating .md file
@@ -45,6 +49,13 @@ For the process doing this task,
 
 Turns out I can actually select the theme for the github page. Without a doubt, I choose `Hacker Theme`:
 
-![Image](../images/lab2/hackerman.PNG)
+>![Image](../images/lab2/hackerman.PNG)
 
 Kinda cool ngl.
+
+## Some stupid errors:
+
+* VS Code is smart enough to realize .PNG = .png and the .md file preview doesn't treat them differently.
+`Error: punchline.png is missing`
+* I reorganized the file system for the repo numerous times. I have managed to break at least one link everytime. 
+
