@@ -20,4 +20,4 @@ print '3 backticks or'
 print 'indent 4 spaces'
 ```
 # Lab Reports
-[Lab Report 2 - created 1/12/2022](lab-report-2-week-2.html)
+[Lab Report 2 - created 1/12/2022](labReports/lab-report-2-week-2.html)
