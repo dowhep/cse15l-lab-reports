@@ -56,6 +56,6 @@ Kinda cool ngl.
 ## Some stupid errors:
 
 * VS Code is smart enough to realize .PNG = .png and the .md file preview doesn't treat them differently.
-`Error: punchline.png is missing`
+![Image](../images/lab2/githubImageBeLike.png) `Error: punchline.png is missing`
 * I reorganized the file system for the repo numerous times. I have managed to break at least one link everytime. 
 
