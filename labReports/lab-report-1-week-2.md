@@ -64,6 +64,8 @@ I then uploaded my ssh key to .ssh folder in my account on the UCSD server. And 
 
 ![Image](../images/lab1/NoPasswordLogin.PNG)
 
+*Giant Blue Dot (Line) Join The Game!* 
+
 ## <a name="OptimizeRemote"> Optimizing Remote Running </a>
 
 Here I learned I can use `;` to chain commands, and `""` to ensure the commands are in the same environment...
