@@ -50,7 +50,7 @@ Vastly different than a popular laboratory of the same name, this command does n
 
 Anyways, I just copied a harmless .java file to test out the command.
 
-![Image](../images/lab1/SCPResult.PNG)
+![Image](../images/lab1/SCPResultImg.PNG)
 
 I really *really* do not want my account to get hacked. Bear the giant red dots with me. Consider them accidental ink stains. You know, *image compression error or something*.
 
@@ -67,9 +67,12 @@ I then uploaded my ssh key to .ssh folder in my account on the UCSD server. And 
 *Giant Blue Dot (Line) Join The Game!* 
 
 ## <a name="OptimizeRemote"> Optimizing Remote Running </a>
+Initially, to make a local edit to a java file and run it on server, I would have to use `scp xxx.java mycoursespecificaccount@ieng6.ucsd.edu:~/` (copy file to server) + `ssh mycoursespecificaccount@ieng6.ucsd.edu` (log in to server) + `javac xxx.java` (compile) + `java xxx` (run) --- that's a lot of typing. 
 
-Here I learned I can use `;` to chain commands, and `""` to ensure the commands are in the same environment...
+In this section, I learned I can use `;` to chain commands, and `""` to ensure the commands are in the same environment...
 
 ![Image](../images/lab1/OneLineCommandDoesALot.PNG)
 
 ...which resulted in this one line masterpiece that updates a java file from local client to server, compiles it on server, and run it on server!
+
+As a result, everytime I make an edit to a java file, I only have to ``Ctrl+` ``(open command prompt) + `uparrow` (go to last command) + `Enter` (run last command). And kaboom, my edited java file is running the on server! I can see my programs' errors and mistakes (and experience pain) a lot quicker with a total of **3 key strokes**!
