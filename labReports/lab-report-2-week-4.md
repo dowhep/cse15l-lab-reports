@@ -33,9 +33,9 @@ After some messing around, we quickly found [this file](https://github.com/dowhe
 >![image](../images/lab2/innocent-character-break.PNG)
 When we ran the above command, the program became unresponsive, most likely reached an infinite loop.
 
-The failure inducing input is literally having some extra characters in the end of a markdown file that is not related to links. Because the ending condition of the program is that the last character of the last link found is the last character of the file, the program would never end if the file does not end with a link.
+The failure inducing input is literally having some extra characters in the end of a markdown file that is not related to links. Because the ending condition of the program is that the last character of the last link found is the last character of the file, the program would never end if the file does not end with a link, thus reaching an infinite loop.
 
-We quickly fixed it by creating a new end condition: if no part of the link structure can be found, then the while loop ends.
+We quickly fixed it by creating a new end condition: if no part of the link format can be found, then the while loop ends.
 
 >![image](../images/lab2/innocent-character-code-fix.PNG)
 Above is the code changes we made, viewed in github.
