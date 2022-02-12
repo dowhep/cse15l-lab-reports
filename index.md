@@ -5,6 +5,8 @@
 First get rickrolled.
 ## Lab Reports
 
+[Lab Report 3 - created 2/11/2022](labReports/lab-report-3-week-6.html)
+
 [Lab Report 2 - created 1/26/2022](labReports/lab-report-2-week-4.html)
 
 [Lab Report 1 - created 1/14/2022](labReports/lab-report-1-week-2.html)
