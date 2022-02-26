@@ -9,7 +9,8 @@ Parse class (a program that detects all valid links in a markdown file) and
 another group's implementation are handling the sample .md files correctly.
 
 Link to the other group's implementation: 
-https://github.com/austin-li/CSE15L-TheLunaMoths
+[https://github.com/austin-li/CSE15L-TheLunaMoths](
+    https://github.com/austin-li/CSE15L-TheLunaMoths)
 
 Here is the table of content:
 
