@@ -8,6 +8,10 @@ In this report, I am going to demonstrate whether our implementation of Markdown
 Parse class (a program that detects all valid links in a markdown file) and 
 another group's implementation are handling the sample .md files correctly.
 
+Link to our group's implementation:
+[https://github.com/Alexander-Kourjanski/markdown-parse](
+    https://github.com/Alexander-Kourjanski/markdown-parse)
+
 Link to the other group's implementation: 
 [https://github.com/austin-li/CSE15L-TheLunaMoths](
     https://github.com/austin-li/CSE15L-TheLunaMoths)
