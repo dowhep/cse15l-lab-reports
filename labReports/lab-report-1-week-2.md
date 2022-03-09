@@ -15,7 +15,7 @@ Here is the table of content:
 * [Moving Files with `scp`](#MoveFilesSCP)
 * [Setting an SSH Key](#SetSSHKey)
 * [Optimizing Remote Running](#OptimizeRemote)
-
+{:toc}
 
 ## <a name="InstallVScode"> Installing VScode </a>
 
