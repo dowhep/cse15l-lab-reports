@@ -3,9 +3,16 @@
 ---
 
 # Lab Report 0 - 1/12/2022
+{:.no_toc}
+
 This is the lab that created my **first** personal website git repo!
 
 The instructions can be viewed [here](https://ucsd-cse15l-w22.github.io/week/week2/).
+
+
+Here is the table of content:
+* Auto-gen TOC
+{:toc}
 ## Creating .md file
 What we learned first: by creating a file that end with md (markdown - a text format), github will generate a displayable html file (*does not exist in the github repo*) of the same name to display the markdown file counterpart.
 
