@@ -9,12 +9,7 @@ The instructions can be viewed [here](https://ucsd-cse15l-w22.github.io/week/wee
 
 Here is the table of content:
 
-* [Installing VScode](#InstallVScode)
-* [Remotely Connecting](#RemoteConnect)
-* [Trying Some Commands](#TryCommands)
-* [Moving Files with `scp`](#MoveFilesSCP)
-* [Setting an SSH Key](#SetSSHKey)
-* [Optimizing Remote Running](#OptimizeRemote)
+* TOC
 {:toc}
 
 ## <a name="InstallVScode"> Installing VScode </a>
