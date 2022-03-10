@@ -49,6 +49,7 @@ I found the tests with difference result by comparing the outputs of them:
 >![Image](../images/lab5/diff-command.PNG)
 >
 > (There are more differences than just those two...)
+
 ## Test 1
 
 The `diff` command shows that there is a difference on line 230 of 
